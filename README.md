@@ -1,1 +1,1 @@
-![](img/paint.PNG)
+![](image/paint.PNG)
